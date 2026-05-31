@@ -1,0 +1,8 @@
+# Set default behavior and normalize line endings
+* text=auto
+
+# Ensure Python files use LF line endings
+*.py text eol=lf
+
+# Keep Jupyter notebooks mergeable
+*.ipynb merge=union
