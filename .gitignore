@@ -49,6 +49,9 @@ htmlcov/
 # Ignore local notebook explanation (keep it untracked)
 notebook_explanation.md
 
+# Ignore raw data export
+price_data.txt
+
 # Editor settings
 .vscode/
 .idea/
