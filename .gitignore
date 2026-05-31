@@ -46,6 +46,9 @@ htmlcov/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
+# Ignore local notebook explanation (keep it untracked)
+notebook_explanation.md
+
 # Editor settings
 .vscode/
 .idea/
